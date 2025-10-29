@@ -1,0 +1,10 @@
+######Proyecto Tkinter########
+Juego de preguntas con categorias
+Modulo-1 
+Ocupar para elegir categorias sobre las cuales quiere que le pregunte
+Modulo-2
+Contabilizar el tiempo que le lleva responder todas las preguntas
+Modulo-3
+Tabla de estadisticas sobre las preguntas que respondio
+Modulo-4
+Retroalimentacion sobre el Juego
