@@ -22,7 +22,7 @@ FUENTE_CRONOMETRO = ('Consolas', 14, 'bold')
 # --- 1. DATOS DEL JUEGO ---
 QUIZ_DATA = {
     "HTML": [
-        {"pregunta": "¿es un lenguaje de programacion?",
+        {"pregunta": "¿es  un lenguaje de programacion?",
          "opciones": ["No", "Si", "Es un lenguaje de Datos", "Depende el punto de vista"],
          "respuesta": "No"},
         {"pregunta": "¿Que significan las siglas HTML?",
